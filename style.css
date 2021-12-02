@@ -50,11 +50,11 @@ a:hover {
 
 .list-inline i {
 font-size: 50px;
-color: rgb(230, 230, 230);
+color: #9A0680;
 }
 
 .list-inline i:hover {
-color: rgb(153, 23, 131);
+color: #F4BEEE;
 }
 
 @media (max-width: 960px) {
