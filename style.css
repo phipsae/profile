@@ -48,6 +48,14 @@ a:hover {
   padding-left: 0px;
 }
 
+.list-inline i {
+font-size: 50px;
+color: rgb(230, 230, 230);
+}
+
+.list-inline i:hover {
+color: rgb(153, 23, 131);
+}
 
 @media (max-width: 960px) {
   /* For a screen < 960px, this CSS will be read */
